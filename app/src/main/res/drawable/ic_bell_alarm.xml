@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Bell -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6V11c0-3.07-1.63-5.64-4.5-6.32V4a1.5 1.5 0 0 0-3 0v.68C7.63 5.36 6 7.92 6 11v5l-1.7 1.7c-.14.14-.3.3-.3.6v.1c0 .55.45 1 1 1h14c.55 0 1-.45 1-1v-.1c0-.3-.16-.46-.3-.6L18 16zm-2 1H8v-6c0-2.48 1.51-4.5 4-4.5s4 2.02 4 4.5v6z"/>
+    <!-- Left sound wave -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M4.22 18.36a.996.996 0 0 1 0-1.41c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41-.39.39-1.02.39-1.41 0z"/>
+    <!-- Right sound wave -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M19.78 18.36a.996.996 0 0 0 0-1.41c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0z"/>
+</vector> 

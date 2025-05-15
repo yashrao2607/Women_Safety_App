@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476729849887",
+    "project_id": "women-safety-app-e7715",
+    "storage_bucket": "women-safety-app-e7715.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476729849887:android:66282c7967dd8b44d97d2a",
+        "android_client_info": {
+          "package_name": "com.yash.women_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTsXbk6iBquk-cd6-5nYs0E8sGu2gYVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
