@@ -1,8 +1,5 @@
 # 🚨 Women Safety App - SafeCircle
 
-![License](https://img.shields.io/badge/license-MIT-green)  
-![Platform](https://img.shields.io/badge/platform-android-blue)  
-![Firebase](https://img.shields.io/badge/firebase-integrated-orange)
 
 ## 📱 Overview
 
@@ -74,4 +71,4 @@ Here are the key features integrated into the app:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/women-safety-app.git
+   git clone https://github.com/yashrao2607/Women_Safety_App.git
